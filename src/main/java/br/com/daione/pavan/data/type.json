@@ -1,0 +1,385 @@
+[
+  {
+    "nameTranslatedPortuguese": "Contabilidade",
+    "googleMapsNameType": "accounting"
+  },
+  {
+    "nameTranslatedPortuguese": "Aeroporto",
+    "googleMapsNameType": "airport"
+  },
+  {
+    "nameTranslatedPortuguese": "Parque de Diversão",
+    "googleMapsNameType": "amusement_park"
+  },
+  {
+    "nameTranslatedPortuguese": "Aquário",
+    "googleMapsNameType": "aquarium"
+  },
+  {
+    "nameTranslatedPortuguese": "Galeria de Arte",
+    "googleMapsNameType": "art_gallery"
+  },
+  {
+    "nameTranslatedPortuguese": "Aquário",
+    "googleMapsNameType": "aquarium"
+  },
+  {
+    "nameTranslatedPortuguese": "Caixa 24h",
+    "googleMapsNameType": "atm"
+  },
+  {
+    "nameTranslatedPortuguese": "Padaria ou Confeitaria",
+    "googleMapsNameType": "bakery"
+  },
+  {
+    "nameTranslatedPortuguese": "Banco",
+    "googleMapsNameType": "bank"
+  },
+  {
+    "nameTranslatedPortuguese": "Bar",
+    "googleMapsNameType": "bar"
+  },
+  {
+    "nameTranslatedPortuguese": "Salão de Beleza",
+    "googleMapsNameType": "beauty_salon"
+  },
+  {
+    "nameTranslatedPortuguese": "Cafeteria",
+    "googleMapsNameType": "cafe"
+  },
+   {
+    "nameTranslatedPortuguese": "Boliche",
+    "googleMapsNameType": "bowling_alley"
+  },
+  {
+    "nameTranslatedPortuguese": "Livraria",
+    "googleMapsNameType": "book_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Cemitério",
+    "googleMapsNameType": "cemetery"
+  },
+  {
+    "nameTranslatedPortuguese": "Igreja",
+    "googleMapsNameType": "church"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Conveniência",
+    "googleMapsNameType": "convenience_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Lojas de Roupas",
+    "googleMapsNameType": "clothing_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Prefeitura",
+    "googleMapsNameType": "city_hall"
+  },
+  {
+    "nameTranslatedPortuguese": "Lavagem Automotiva",
+    "googleMapsNameType": "car_wash"
+  },
+  {
+    "nameTranslatedPortuguese": "Oficina de Carros",
+    "googleMapsNameType": "car_repair"
+  },
+  {
+    "nameTranslatedPortuguese": "Aluguel de Carros",
+    "googleMapsNameType": "car_rental"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Carros",
+    "googleMapsNameType": "car_dealer"
+  },
+  {
+    "nameTranslatedPortuguese": "Campping",
+    "googleMapsNameType": "campground"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Bicicleta",
+    "googleMapsNameType": "bicycle_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Tribunal",
+    "googleMapsNameType": "courthouse"
+  },
+  {
+    "nameTranslatedPortuguese": "Dentista",
+    "googleMapsNameType": "dentist"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "department_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "doctor"
+  },
+  {
+    "nameTranslatedPortuguese": "Cemitério",
+    "googleMapsNameType": "hospital"
+  },
+  {
+    "nameTranslatedPortuguese": "Igreja",
+    "googleMapsNameType": "home_goods_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Conveniência",
+    "googleMapsNameType": "hindu_temple"
+  },
+  {
+    "nameTranslatedPortuguese": "Lojas de Roupas",
+    "googleMapsNameType": "hardware_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Prefeitura",
+    "googleMapsNameType": "hair_care"
+  },
+  {
+    "nameTranslatedPortuguese": "Lavagem Automotiva",
+    "googleMapsNameType": "gym"
+  },
+  {
+    "nameTranslatedPortuguese": "Oficina de Carros",
+    "googleMapsNameType": "gas_station"
+  },
+  {
+    "nameTranslatedPortuguese": "Aluguel de Carros",
+    "googleMapsNameType": "furniture_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Carros",
+    "googleMapsNameType": "funeral_home"
+  },
+  {
+    "nameTranslatedPortuguese": "Campping",
+    "googleMapsNameType": "florist"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Bicicleta",
+    "googleMapsNameType": "fire_station"
+  },
+  {
+    "nameTranslatedPortuguese": "Tribunal",
+    "googleMapsNameType": "embassy"
+  },
+  {
+    "nameTranslatedPortuguese": "Dentista",
+    "googleMapsNameType": "electronics_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "electrician"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "drugstore"
+  },
+  {
+    "nameTranslatedPortuguese": "Cemitério",
+    "googleMapsNameType": "movie_theater"
+  },
+  {
+    "nameTranslatedPortuguese": "Igreja",
+    "googleMapsNameType": "movie_rental"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Conveniência",
+    "googleMapsNameType": "mosque"
+  },
+  {
+    "nameTranslatedPortuguese": "Lojas de Roupas",
+    "googleMapsNameType": "meal_takeaway"
+  },
+  {
+    "nameTranslatedPortuguese": "Prefeitura",
+    "googleMapsNameType": "meal_delivery"
+  },
+  {
+    "nameTranslatedPortuguese": "Lavagem Automotiva",
+    "googleMapsNameType": "lodging"
+  },
+  {
+    "nameTranslatedPortuguese": "Oficina de Carros",
+    "googleMapsNameType": "locksmith"
+  },
+  {
+    "nameTranslatedPortuguese": "Aluguel de Carros",
+    "googleMapsNameType": "local_government_office"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Carros",
+    "googleMapsNameType": "liquor_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Campping",
+    "googleMapsNameType": "light_rail_station"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Bicicleta",
+    "googleMapsNameType": "library"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Tribunal",
+    "googleMapsNameType": "lawyer"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Dentista",
+    "googleMapsNameType": "laundry"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "jewelry_store"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "insurance_agency"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Restaurante",
+    "googleMapsNameType": "restaurant"
+  },
+  {
+    "nameTranslatedPortuguese": "Imobiliáia",
+    "googleMapsNameType": "real_estate_agency"
+  },
+  {
+    "nameTranslatedPortuguese": "Posto Policial",
+    "googleMapsNameType": "post_office"
+  },
+  {
+    "nameTranslatedPortuguese": "Polícia",
+    "googleMapsNameType": "police"
+  },
+  {
+    "nameTranslatedPortuguese": "Pousadas e Hoteis",
+    "googleMapsNameType": "lodging"
+  },
+  {
+    "nameTranslatedPortuguese": "Hidráulico ou Encanador",
+    "googleMapsNameType": "plumber"
+  },
+  {
+    "nameTranslatedPortuguese": "Fisioterapeuta",
+    "googleMapsNameType": "physiotherapist"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Animais",
+    "googleMapsNameType": "pet_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Estacionamento",
+    "googleMapsNameType": "parking"
+  },
+  {
+    "nameTranslatedPortuguese": "Parque",
+    "googleMapsNameType": "park"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Pintor",
+    "googleMapsNameType": "painter"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Casa Noturna",
+    "googleMapsNameType": "night_club"
+  },
+  {
+    "nameTranslatedPortuguese": "Museu",
+    "googleMapsNameType": "museum"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Companhia de Mudança",
+    "googleMapsNameType": "moving_company"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Sapato",
+    "googleMapsNameType": "shoe_store"
+  },
+  {
+    "nameTranslatedPortuguese": "Farmácia",
+    "googleMapsNameType": "pharmacy"
+  },
+  {
+    "nameTranslatedPortuguese": "Escolas",
+    "googleMapsNameType": "school"
+  },
+  {
+    "nameTranslatedPortuguese": "Camping para Trailers e Motorhomes",
+    "googleMapsNameType": "rv_park"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Shopping",
+    "googleMapsNameType": "shopping_mall"
+  },
+  {
+    "nameTranslatedPortuguese": "Sinagoga",
+    "googleMapsNameType": "synagogue"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja de Departamento",
+    "googleMapsNameType": "subway_station"
+  },
+  {
+    "nameTranslatedPortuguese": "Supermercado",
+    "googleMapsNameType": "supermarket"
+  },
+  {
+    "nameTranslatedPortuguese": "Loja",
+    "googleMapsNameType": "store"
+  },
+  {
+    "nameTranslatedPortuguese": "Garagem",
+    "googleMapsNameType": "storage"
+  },
+  {
+    "nameTranslatedPortuguese": "Estádio de Esporte",
+    "googleMapsNameType": "stadium"
+  },
+  {
+    "nameTranslatedPortuguese": "SPA",
+    "googleMapsNameType": "spa"
+  },
+  {
+    "nameTranslatedPortuguese": "Zoológico",
+    "googleMapsNameType": "zoo"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Clínica Veterinária",
+    "googleMapsNameType": "veterinary_care"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Universidade",
+    "googleMapsNameType": "university"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Agência de Viagem",
+    "googleMapsNameType": "travel_agency"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Estaçaõ de Trem",
+    "googleMapsNameType": "train_station"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Atração Turística",
+    "googleMapsNameType": "tourist_attraction"
+  },
+
+  {
+    "nameTranslatedPortuguese": "Ponto de Táxi",
+    "googleMapsNameType": "taxi_stand"
+  }
+]
+
