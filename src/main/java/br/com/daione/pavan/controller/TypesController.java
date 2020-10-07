@@ -42,7 +42,6 @@ public class TypesController {
         return ResponseEntity.status(HttpStatus.OK).body(typeModelMono);
     }
 
-
     @PostMapping
     public ResponseEntity<?> newTypeModel(@RequestBody TypeModel typeModel){
         UtilType.validate(typeModel);
