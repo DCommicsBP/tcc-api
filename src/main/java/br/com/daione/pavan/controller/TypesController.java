@@ -17,7 +17,7 @@ import reactor.core.publisher.Mono;
 import java.util.List;
 import java.util.stream.Stream;
 
-@RestController
+@RestController("/type")
 public class TypesController {
 
     @Autowired
